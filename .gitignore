@@ -1,0 +1,49 @@
+# Python
+*.pyc
+*.pyo
+*.pyd
+__pycache__/
+*.so
+*.egg
+*.egg-info/
+dist/
+build/
+eggs/
+parts/
+var/
+*.log
+
+# Django
+*.sqlite3
+db.sqlite3
+*.pkl
+*.pot
+*.mo
+*.db
+
+# Media
+media/
+static/
+
+# Environments
+.env
+.venv/
+venv/
+ENV/
+env/
+
+# IDEs
+.vscode/
+.idea/
+*.sublime-workspace
+*.sublime-project
+
+# PyCharm
+*.iml
+*.idea/
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
